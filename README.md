@@ -10,7 +10,6 @@
 - [x] Random emoji injector
 - [x] Scheduled Cron
 - [x] Register and Unregister from updates
-- [x] Photographic memes and written jokes parity
 
 ---
 
