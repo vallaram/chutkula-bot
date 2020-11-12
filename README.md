@@ -9,7 +9,6 @@
 - [x] Time sync, so you always get the most latest feed
 - [x] Random emoji injector
 - [x] Scheduled Cron
-- [x] Register and Unregister from updates
 
 ---
 
