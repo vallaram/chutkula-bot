@@ -1,6 +1,6 @@
 name: docker-ci
 on:
-        release
+        push
 jobs:
         test1:
                 name: Docker build push
@@ -19,5 +19,5 @@ jobs:
                           uses: docker/build-push-action@v2
                           with:
                                   push: true
-                                  tags: ${{ github.sha }}
+                                  tags: latest
                                   file: ./Containerfile
