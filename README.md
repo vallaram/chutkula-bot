@@ -1,5 +1,4 @@
 ## Chutkula Bot
-A telegram bot to send jokes daily and on demand [NSFW]
 
 ---
 
